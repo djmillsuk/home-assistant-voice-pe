@@ -1523,6 +1523,8 @@ audio_dac:
 micro_wake_word:
   id: mww
   models:
+    - model: https://github.com/djmillsuk/home-assistant-voice-pe/releases/download/jessica-wakeword/jessica.json
+      id: jessica
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
     - model: hey_jarvis
