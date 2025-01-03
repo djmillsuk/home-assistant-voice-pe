@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Jessica",
+  "wake_word": "Okay Google",
   "author": "Dion Mills",
   "website": "https://github.com/djmillsuk",
   "model": "okay_google.tflite",
